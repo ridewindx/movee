@@ -1,6 +1,6 @@
 # movee
 
-> A website project for movie lovers
+> A website project for movie lovers.
 
 ## Build Setup
 
